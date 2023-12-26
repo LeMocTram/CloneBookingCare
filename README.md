@@ -1,3 +1,8 @@
+-FRONT-END: HTML, CSS, BootStrap,JavaScript, ReactJS, ReduxJS
+
+-BACK-END: JavaScript, NodeJS, MySQL
+
+
 This project is developing a medical booking MVC website
 that provide us some features like sign up, log in for users
 and doctors, schedule reservation for patients, viewing
